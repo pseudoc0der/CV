@@ -11,8 +11,7 @@ hr {
 
 }
 
-h1
-h3 {
+h1, h3 {
     color: #66bfbf;
     font-family: cursive;
 }
